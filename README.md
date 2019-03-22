@@ -47,7 +47,8 @@
 ## [JavaScript1](https://github.com/HackYourFuture/JavaScript/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
 
 > In this module we use Node to run JavaScript. 
-> In [this repo] you can find a very nice overview of some of the fundamental javaScript concepts.(https://github.com/HackYourFutureBelgium/fundamentals
+
+> In [this repo](https://github.com/HackYourFutureBelgium/fundamentals) you can find a very nice overview of some of the fundamental javaScript concepts.
 
 ### **Module goals**
 **JavaScript**
