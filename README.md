@@ -9,8 +9,8 @@
 
 # When do we teach?
 
-Class on **Sunday**
-Class is every Sunday from 12.00 to approximately 16/16.30.
+>Class on **Sunday**
+>Class is every Sunday from 12.00 to approximately 16/16.30.
 
 # What do we teach?
 
