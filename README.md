@@ -2,10 +2,15 @@
 
 >Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Our half year course is divided into modules that last 3 weeks with exception of the project module that lasts 6 weeks. Below you can find a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
-- Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
-- Are you a new student? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!
+- Are you a new **teacher**? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
+- Are you a new **student**? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!
 
 ### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
+
+# When do we teach?
+
+Class on **Sunday**
+Class is every Sunday from 12.00 to approximately 16/16.30.
 
 # What do we teach?
 
@@ -40,7 +45,8 @@
 
 ## [JavaScript1](https://github.com/HackYourFuture/JavaScript/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
 
-> In this module we use Node to run JavaScript.
+> In this module we use Node to run JavaScript. 
+## In [this repo] you can find a very nice overview of some of the fundamental javaScript concepts.(https://github.com/HackYourFutureBelgium/fundamentals
 
 ### **Module goals**
 **JavaScript**
@@ -152,9 +158,9 @@ By the end of this module, students should have a familiarity with and basic und
 - State and Lifecycle
 - Forms and Managing State
 
-## [Project](https://github.com/HackYourFuture/Project)
+## [Final Project](https://github.com/HackYourFuture/Project)
 
->In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
+>In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organisation and real-world challenge to solve. In this project, scoping, requirement analysis and project management are core themes while building your first full-stack project! 💪
 
 ### **Module goals**
 
@@ -166,7 +172,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 **After this module we offer (technical)interview and CV training for those who are interested. The goal of these sessions are to:**
 - Get your CV and LinkedIn ready for when you are ready to go to interviews.
-- Get an understanding of how (technical) interviews go in the Dutch job market.
+- Get an understanding of how (technical) interviews go in the Belgian job market.
 
 
 Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
