@@ -44,7 +44,7 @@
 - Write basic shell scripts to ease the programming life.
 
 
-## [JavaScript1](https://github.com/HackYourFuture/JavaScript/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
+## [JavaScript1](https://github.com/HackYourFuture/JavaScript1/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
 
 > In this module we use Node to run JavaScript. 
 
@@ -84,7 +84,7 @@ After this sessions students should:
 - Have an understanding of pull requests and forking workflow.
 
 
-## [JavaScript2](https://github.com/HackYourFuture/JavaScript/)
+## [JavaScript2](https://github.com/HackYourFuture/JavaScript2/)
 
 > JavaScript in the browser with HTML and CSS
 
@@ -105,7 +105,7 @@ After this sessions students should:
 - Events
 - Callbacks
 
-## [JavaScript3](https://github.com/HackYourFuture/JavaScript/)
+## [JavaScript3](https://github.com/HackYourFuture/JavaScript3/)
 
 ### **Module goals for JavaScript3**
 
