@@ -178,3 +178,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 
 Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
+
+## [HackTheTalks]
+HackTheTalks take place on Sundays before class (from 11h to 12h) during which professionals are coming to share knowledge on new technologies or design/product management tooling.
+You can have access to the content of the previous talks here : https://github.com/HackYourFutureBelgium/hack-the-talks
