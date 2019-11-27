@@ -17,4 +17,4 @@
 * [9. Final Project](./09-final-project.md)
 
 ### Contributing
-* [GitBook Source Repository](https://github.com/hackyourfuturebelgium/curriculum)
+* [Curriculum Repository](https://github.com/hackyourfuturebelgium/curriculum)
