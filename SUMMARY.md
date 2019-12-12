@@ -10,7 +10,7 @@
 <!-- these can be anchors within how-it-works.md -->
 * [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
 * [Sunday Classes](./how-it-works/sunday-classes.md)
-* [Weekly Assignments](./how-it-works/weekly-assignments.md)
+* [Homework Submission](./how-it-works/homework-submission.md)
 * [Evaluation](./how-it-works/evaluation.md)
 <!-- look in the contract -->
 <!-- core values -->

@@ -23,6 +23,7 @@ __Learning Objectives__
 * create simple & responsive HTML/CSS sites deployed to gh-pages
 * use the devtools to inspect pages, modify live pages, and (loosely) replicate the styling of other web pages
 * incremental, story/feature based development using one folder per step
+* explain what the DOM is and how it fits in with the life-cycle of a static web page
 
 
 __Tech-Specs__
