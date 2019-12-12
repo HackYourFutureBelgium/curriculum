@@ -6,7 +6,10 @@
 
 Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (except be beautiful :).  JavaScript is the programming language for turning your pages from pretty sites to web apps.  Before learning about what exactly is a web app, it's important to first master the fundamentals of JS in isolation (ie. not part of a web page), and to learn how you can connect your JS logic to your web pages in a clean, modular and testable way.
 
-_Separation of Concerns_ is one of the most fundamental principles of any type of software development ... pull from jl 3-layer handlers.
+"Separation of concerns" means that each piece of code has one simple and well defined purpose, and that only one piece of code is used for each role.
+
+Understanding this principle will help with testing, development scheduling, collaboration, maintenance, ... everything. In our experience, understanding separation of concerns is the most important thing a new programmer can learn (after mastering JS of course). Far more important than learning new libraries, powerful devtools, or even being good at solving programming challenges.
+
 
 __Summary__
 * _pains you’ll relieve_: using Git branches makes incremental development much nicer than lots of folders, javascript puts some interactivity behind your sites.

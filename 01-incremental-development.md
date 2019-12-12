@@ -1,5 +1,7 @@
 ## Incremental Development
 
+Find the the main Module repository [right here](https://github.com/HackYourFutureBelgium/incremental-development/)
+
 > 3 weeks.
 
 > This module is almost the old HTML/CSS module, but with less of an emphasis on responsive design and less depth in CSS.  In it's place there is more of a focus on managing code with git/github and breaking larger projects into small steps.

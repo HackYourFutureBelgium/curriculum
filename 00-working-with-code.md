@@ -1,5 +1,7 @@
 ## Working With Code
 
+Find the the main Module repository [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
+
 > 1 Week.
 
 > This module is completely new.  It's a week for students to orient themselves with the workflows they'll need: working on their computers, setting up their directory structure, installing softwares, using github, and getting a handle of the HYF Be homework processes so they can begin the first module in less of a daze.
