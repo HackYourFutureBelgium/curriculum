@@ -1,4 +1,4 @@
-## Final Project
+## Collaborative Development
 
 > 6 weeks.
 
@@ -7,7 +7,7 @@
 
 
 Summary
-* _pains you’ll relieve_: learn strategies for understanding and organizing growing code bases, how to plan projects ahead of time, and how to collaborate on larger projects
+* _pains you’ll relieve_: working alone is lonely :(
 * _things you’ll build_: a fullstack app with good architecture & CI/CD (provided), developed over 6 weeks in teams, with multiple data types, using a project management methodology
 * _pains you’ll feel_: your projects are still definitely learning projects, what's the real world like?
 

@@ -26,7 +26,7 @@
 * [6. Frontend Frameworks](./06-frontend-frameworks.md)
 * [7. Full-Stacking](./07-full-stacking.md)
 * [8. Data Modeling](./08-data-modeling.md)
-* [9. Final Project](./09-final-project.md)
+* [9. Collaborative Development](./09-collaborative-development.md)
 
 ## Contributing
 * [GitBook Repository](https://github.com/hackyourfuturebelgium/curriculum)
