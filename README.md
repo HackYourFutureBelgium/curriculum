@@ -10,7 +10,7 @@
 
 > * There are no links to repositories yet because the new repositories don't exist yet.  After this overview has reached a consensus we can begin preparing the first modules for when class starts in January, and can finalize the later modules on a just-in-time basis to incorporate lessons learned along the way.
 
-> You can also read it as a gitbook [here](https://hackyourfuture.be/curriculum)
+> You can also read it as a gitbook [here](https://curriculum.hackyourfuture.be)
 
 
 
