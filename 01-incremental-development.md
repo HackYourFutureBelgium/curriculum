@@ -14,7 +14,7 @@ Markdown is great but it's definitely limited, it's meant for writing documents 
 This is where _Incremental Development_ comes in.  Aside from HTML & CSS, the main skill you will encounter in this module is how to break a large project into small steps that build on top of each other.  You'll learn how, with a little extra discipline,  moving one little step at a time can magically make large projects understandable, and make fixing your mistakes much easier.
 
 
-__Summary__
+__Pains & Gains__
 * _pains you’ll relieve_: HTML/CSS are much more expressive than MarkDown, but also more complicated. incremental development helps organize your work over time
 * _what you can build_: responsive & static web pages, built in steps
 * _pains you’ll feel_: HTML/CSS alone don't allow for much interaction, saving your steps in different folders is cumbersome

@@ -1,22 +1,23 @@
 # HYF BE: Curriculum
 
 ## Before You Join Us
-* [Application Process](./before-you-join-us/application-process.md)
-* [Precourse](./before-you-join-us/precourse.md)
+* [What is HYF Be?](https://hackyourfuture.be/#about)
+* [Application Process](./application-process.md)
+* [Precourse](https://github.com/HackYourFutureBelgium/precourse)
+
 
 ## After You Join Us
 
 ### How it Works
-<!-- these can be anchors within how-it-works.md -->
 * [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
-* [Sunday Classes](./how-it-works/sunday-classes.md)
-* [Homework Submission](./how-it-works/homework-submission.md)
-* [Evaluation](./how-it-works/evaluation.md)
+* [Sunday Classes](./sunday-classes.md)
+* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
+* [Evaluation](./evaluation.md)
 <!-- look in the contract -->
 <!-- core values -->
 <!-- hyf contract original documents -->
 
-### What You'll Learn
+### What You will Learn
 * [0. Working With Code](./00-working-with-code.md)
 * [1. Incremental Development](./01-incremental-development.md)
 * [2. Separation of Concerns](./02-separation-of-concerns.md)

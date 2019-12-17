@@ -7,7 +7,7 @@
 practical javascript
 weeks 2 & 3 projects from class 6
 
-Summary
+__Pains & Gains__
 * _pains you’ll relieve_: Your projects were starting to become quite scattered, and it wasn't easy to keep track of how and where different pieces were interacting.
 * _what you can build_: a fully interactive app object with state, methods, handlers, and render functions
 * _pains you’ll feel_: Apps built around a single object containing only hard-coded and user data are limited

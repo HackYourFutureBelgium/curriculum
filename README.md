@@ -24,7 +24,7 @@ What's more important than mastering any particular skill, JS language feature, 
 
 In each module description you'll find an overview of what you can expect to learn in that module and a link to that module's repository.  The descriptions will each cover these points:
 
-__Summary__
+__Pains & Gains__
 * _pains you’ll relieve_: How the learning objectives in this module help to overcome challenges encountered in the last module
 * _what you can build_: A brief description of the projects you can build after this module. These descriptions are about the scope of the project and how it is designed rather than what it does.
 * _pains you’ll feel_: Some of the most glaring limitations and annoyances you'll encounter building this module's projects. (a cliffhanging for the next module)

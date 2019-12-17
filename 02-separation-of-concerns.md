@@ -11,7 +11,7 @@ Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (exc
 Understanding this principle will help with testing, development scheduling, collaboration, maintenance, ... everything. In our experience, understanding separation of concerns is the most important thing a new programmer can learn (after mastering JS of course). Far more important than learning new libraries, powerful devtools, or even being good at solving programming challenges.
 
 
-__Summary__
+__Pains & Gains__
 * _pains you’ll relieve_: using Git branches makes incremental development much nicer than lots of folders, javascript puts some interactivity behind your sites.
 * _what you can build_: simple web pages, built in steps, with the ability to display processed user input
 * _pains you’ll feel_: the user interface is very static and limited, pages that don't remember data are very limited

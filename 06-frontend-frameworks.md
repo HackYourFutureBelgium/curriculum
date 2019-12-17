@@ -10,7 +10,7 @@
 > This module will not go as deep into React as the old module did, preferring to build solid foundations that students can build from over the next 12 weeks (2 modules + final project) rather than trying to cover every detail of React just before the final project.
 
 
-__Summary__
+__Pains & Gains__
 * _pains you’ll relieve_: using frameworks and build scripts/tools allows much smoother developer experience
 * _what you can build_: Interactive frontend apps that consume API data, but using React
 * _pains you’ll feel_: Wouldn't it be nice if you could save user data between refreshes?

@@ -11,7 +11,7 @@
 
 
 
-Summary
+__Pains & Gains__
 * _pains you’ll relieve_: your projects will now have a much richer user experience due to _persistent_ data between refreshes
 * _what you can build_: very simple fullstack webapp with a react frontend & restful express backend that reads and writes from a JSON file, deployed with a cloud-based hosting service.
 * _pains you’ll feel_: building your app on top of data stored in a .json file is very limited and not robust.

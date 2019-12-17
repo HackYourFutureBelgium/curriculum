@@ -6,7 +6,7 @@
 
 > Having more time to develop their code maturity, work on larger projects and having a chance to encounter the JS principles behind React without the added layer of React/JSX/build-tools will help the students to more quickly master React.
 
-Summary
+__Pains & Gains__
 * _pains you’ll relieve_: consuming data from external APIs can make for much more interesting apps, and the use of inheritance to reuse code between different objects allows for much richer and more complex apps without much more code
 * _what you can build_:  Interactive web apps that combine user and external data, and uses inheritance for a more modular and reusable code base.
 * _pains you’ll feel_: It can really be a pain to build everything from scratch

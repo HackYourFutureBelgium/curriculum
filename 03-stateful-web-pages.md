@@ -7,7 +7,7 @@
 
 yups.
 
-__Summary__
+__Pains & Gains__
 * _pains you’ll relieve_: storing data in a ```state``` object makes much more interesting sites, dom components make for a more interesting user experience
 * _what you can build_: simple web pages that take user input, process it with page state, and more complex user output with some dom manipulation
 * _pains you’ll feel_: your JS is scattered and doesn't feel "whole", having a static page structure is limiting
