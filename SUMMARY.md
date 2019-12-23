@@ -32,7 +32,7 @@
 
 ## Contributing
 
-* [GitBook Repository](https://github.com/hackyourfuturebelgium/curriculum)
-* [General HYF Improvements](https://github.com/hackyourfuturebelgium/improvements)
-* [Contribution Guidelines]()
 * [Contributors](https://github.com/hackyourfuturebelgium/contributors)
+* [Curriculum Repository](https://github.com/hackyourfuturebelgium/curriculum)
+* [General HYF Improvements](https://github.com/hackyourfuturebelgium/improvements)
+
