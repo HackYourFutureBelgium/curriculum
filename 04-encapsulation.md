@@ -1,6 +1,5 @@
-## Encapsulation
+# Encapsulation (3 weeks)
 
-> 3 weeks.
 
 > This module is the "second half" of the old JS 2.  In this module the goal is learning how to take projects like the ones from the last module and organizing the code into complete app objects with state, methods that act on state, and render functions.  (but not yet classes & inheritance, just object literals)
 

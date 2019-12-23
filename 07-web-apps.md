@@ -1,6 +1,5 @@
-## FullStacking
+## Web Apps (4 weeks)
 
-> 4 weeks.
 
 > This module takes the place of the old Node.js module but with a few changes:
 > * The first week will be a review of JS basics & algorithms, as well as an introduction to programming in Node (ie. modules, modules, native APIs like assert & fs, ...).  This gives a chance to get accustomed to debugging in VSC instead of the browser, to ease into "pure" programming without the immediate feedback of DOM-based apps, and to internalize that Node is at it's heart just another JS environment with a couple super powers (being a server and reading/writing files).

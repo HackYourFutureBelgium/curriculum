@@ -1,6 +1,5 @@
-## Stateful Web Pages
+# Program State (3 weeks)
 
-> 3 weeks.
 
 > This module and the next are more-or-less a stretched out version of the old JS 2.  In this module the learning objectives are working with data structures, problem solving strategies, debugging strategies & the debugger, dom manipulation, and simple web pages with a "state" object (but not yet oop or DOM components, just functions that act on state and modify DOM directly).
 

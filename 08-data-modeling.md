@@ -1,6 +1,5 @@
-## Data Modeling
+## Data Modeling (2 weeks)
 
-> 2 weeks.
 
 > This module is one week shorter than the previous databases, and that should not impact students' preparedness for the final project:
 > * In past DB modules, a good chunk of time was spent still getting used to node/express.  So one week from DB's has been moved to the previous module so students enter DB's prepared to focus on data bases.

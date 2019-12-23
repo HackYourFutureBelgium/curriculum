@@ -1,6 +1,5 @@
-## Frontend Frameworks
+# Frontend Frameworks (3 weeks)
 
-> 3 weeks.
 
 > This is where the biggest changes from the old curriculum come in.  The React module is now only 3 weeks and takes place before node/db's, but that  shouldn't be an issue because ...
 > * With stronger basic coding skills and more preparation on the JS concepts behind React, students should be able to learn nearly as much as in the 5 week module in less than 5 weeks.

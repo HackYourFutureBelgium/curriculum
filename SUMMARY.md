@@ -1,13 +1,13 @@
 # HYF BE: Curriculum
 
-## Before You Join Us
+## Before You Start
 
 * [What is HYF Be?](https://hackyourfuture.be/#about)
 * [GitHub Home Page](https://home.hackyourfuture.be)
 * [Application Process](./application-process.md)
 * [Precourse](https://github.com/HackYourFutureBelgium/precourse)
 
-## After You Join Us
+## After You Start
 
 ### How it Works
 
@@ -21,11 +21,11 @@
 * [0. Working With Code](./00-working-with-code.md)
 * [1. Incremental Development](./01-incremental-development.md)
 * [2. Separation of Concerns](./02-separation-of-concerns.md)
-* [3. Stateful Web Pages](./03-stateful-web-pages.md)
+* [3. Program State](./03-program-state.md)
 * [4. Encapsulation](./04-encapsulation.md)
-* [5. Web Apps](./05-web-apps.md)
+* [5. Public APIs](./05-public-apis.md)
 * [6. Frontend Frameworks](./06-frontend-frameworks.md)
-* [7. Full-Stacking](./07-full-stacking.md)
+* [7. Web Apps](./07-web-apps.md)
 * [8. Data Modeling](./08-data-modeling.md)
 * [9. Collaborative Development](./09-collaborative-development.md)
 * [Awesome Links](https://awesome.hackyourfuture.be)

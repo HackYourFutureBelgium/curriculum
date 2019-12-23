@@ -1,6 +1,6 @@
-## Web Apps
+# Public APIs (3 weeks)
 
-> 3 weeks.
+
 
 > Effectively the old JS 3.  This module is direct preparation for React in the next module with an emphasis on classes & inheritance, asynchronous programing, consuming API's, and working on larger more modular code bases (including an intro to ES6 modules).
 
