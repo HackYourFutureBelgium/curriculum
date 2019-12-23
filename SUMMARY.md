@@ -28,7 +28,7 @@
 * [7. Full-Stacking](./07-full-stacking.md)
 * [8. Data Modeling](./08-data-modeling.md)
 * [9. Collaborative Development](./09-collaborative-development.md)
-* [Awesome Links](https://github.com/hackyourfuturebelgium/awesome-links/wiki)
+* [Awesome Links](https://awesome.hackyourfuture.be)
 
 ## Contributing
 
