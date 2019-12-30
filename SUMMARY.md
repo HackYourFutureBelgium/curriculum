@@ -21,7 +21,7 @@
 * [0. Working With Code](./00-working-with-code.md)
 * [1. Incremental Development](./01-incremental-development.md)
 * [2. Separation of Concerns](./02-separation-of-concerns.md)
-* [3. Program State](./03-program-state.md)
+* [3. State](./03-state.md)
 * [4. Encapsulation](./04-encapsulation.md)
 * [5. Public APIs](./05-public-apis.md)
 * [6. Frontend Frameworks](./06-frontend-frameworks.md)

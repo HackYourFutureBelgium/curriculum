@@ -24,7 +24,7 @@ After finishing this module you'll be able to develop and manage simple blog-lik
 
 Once you're comfortable writing, pushing, and deploying markdown you'll be ready for something more.  It won't take long until you feel the limitations of such simple projects!
 
-Prepare yourself for learning how to build larger projects in small pieces using _git branches_, and to make lovely responsive web sites with _HTML & CSS_ in ...
+Prepare yourself for learning how to build larger projects in small pieces using _git branches_, and to make lovely responsive web sites with _HTML & CSS_ using ...
 
 <hr>
 <hr>

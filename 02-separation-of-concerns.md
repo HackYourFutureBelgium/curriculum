@@ -1,6 +1,10 @@
 # Separation of Concerns (3 weeks)
 
-Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (except be beautiful :).  JavaScript is the programming language for turning your projects from pretty pages to interactive web sites.  But wait!  What's happening behind the screen is even more important than what the user sees!  Before hacking your way into cool projects, take some time to understand Separation of Concerns.
+> Find the the main Module repository [right here](https://github.com/HackYourFutureBelgium/separation-of-concerns/)
+
+Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (except be beautiful :).
+
+JavaScript is the programming language for turning your projects from pretty pages to interactive web sites.  But wait!  What's happening behind the screen is even more important than what the user sees!  Before hacking your way into cool projects, take some time to understand Separation of Concerns.
 
 __Separation of Concerns__ means that each piece of code has one simple and well defined task, that multiple pieces of code don't do the same thing, and that your files of code are well-organized according to their task.
 
