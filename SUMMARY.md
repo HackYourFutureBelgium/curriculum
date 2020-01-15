@@ -28,7 +28,7 @@
 * [7. Web Apps](./07-web-apps.md)
 * [8. Data Modeling](./08-data-modeling.md)
 * [9. Collaborative Development](./09-collaborative-development.md)
-* [Awesome Links](https://awesome.hackyourfuture.be)
+* [Study Links](https://study.hackyourfuture.be)
 
 ## Contributing
 
