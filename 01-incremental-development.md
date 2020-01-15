@@ -1,6 +1,6 @@
 # Incremental Development (3 weeks)
 
-Find the the main Module repository [right here](https://github.com/HackYourFutureBelgium/incremental-development/)
+Find the Module repository [right here](https://github.com/HackYourFutureBelgium/incremental-development/)
 
 
 Markdown is great but it is limited. Markdown is meant for writing clean documentation not creating beautiful web pages!  Enter: HTML & CSS.

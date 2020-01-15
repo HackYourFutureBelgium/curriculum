@@ -1,30 +1,30 @@
-# Program State (3 weeks)
+# State (3 weeks)
 
+> Find the Module repository [right here]() (coming soon!)
 
-> This module and the next are more-or-less a stretched out version of the old JS 2.  In this module the learning objectives are working with data structures, problem solving strategies, debugging strategies & the debugger, dom manipulation, and simple web pages with a "state" object (but not yet oop or DOM components, just functions that act on state and modify DOM directly).
+In the previous module you learned to decompose & plan projects, organize your code, and use HTML/CSS/JS to implement simple websites that process user input.  All well and good but there was something missing.  Your projects never "remembered" anything!
 
+Enter: __State__.  This is a fancy programming term to talk about the _data_ stored by your web pages.  Nearly every apps you use has state -> message histories, images, profile details, weather reports, ... you name it!  Data is the core of any application.
 
-yups.
+Your new projects will be more interesting, but they will also be a lot more complicated.  The logic will be more challenging, and the data saved in your page will change over time leading to bugs you could never have imagined!  To help you deal with the added complexity this module will dive deeply into debugging techniques, problem solving strategies, and your browser's developer tools.
 
-__Pains & Gains__
-* _pains you’ll relieve_: storing data in a ```state``` object makes much more interesting sites, dom components make for a more interesting user experience
-* _what you can build_: simple web pages that take user input, process it with page state, and more complex user output with some dom manipulation
-* _pains you’ll feel_: your JS is scattered and doesn't feel "whole", having a static page structure is limiting
+### Pains & Gains
 
-__Learning Objectives__
-* forms for inputting more interesting data
-* techniques for designing and debugging your functions
-* (nope) pure, vanilla dom components for rendering data structures
-* a state object (with no methods)
-* more challenging pure functions that operate on user inputs and the state object
-* Using the DOM to create basic interactive UI's
+* Projects from the last module weren't very interesting to use, they did the same thing every time you triggered an event.  Adding state to your web pages will make much more interesting user experiences that can change and evolve over time based on decisions a user makes. Almost like a ... game?
+* Create web sites that change and react to user interactions with _DOM manipulation_.  Learn how you can use JavaScript to modify what a user sees, updating your web page's UI to reflect changes in program _state_.
+* Boost your confidence by learning how to pause programs with `debugger`, step through execution and inspect program state with the browser's built-in devtools.  This is _the foundation_ of effective debugging and program understanding.
+* Manipulating arrays and objects can get quite complicated using only for loops.  You're much more likely to make mistakes, and you code will likely be harder to understand the next time you try to read it.  Learn how to use native JS _Array & Object methods_ for easier coding and debugging.
+* And no programming course is complete without a few hard coding challenges :)  Get lots of practice with proven strategies for identifying, breaking down, and solving coding challenges.
 
+### What you can Build
 
-__Tech-Specs__
-* JS: array methods, array/object manipulation,
-* DOM: click listeners, basic input & output, manipulations
-* DevTools: debugger
+Interactive web pages that save user data in an object or array, update the saved data based on user actions, and updates tge user interface based on what is stored in memory.
 
+### New Frontiers
+
+By the end of the module your project's will have more code, and do many more things than they did at the beginning.  You'll likely find it challenging to keep it all organized in your mind.  And making changes to one user story might mean changing code in 3, or even 4 files!
+
+Learn how to organize your application data, logic, and views into tidy packages of behavior using ...
 
 <hr>
 <hr>

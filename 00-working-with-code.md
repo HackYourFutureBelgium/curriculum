@@ -1,6 +1,6 @@
 # Working With Code (1 week)
 
-> Find the the main Module repository [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
+> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
 
 There is a lot of code, links, and browser tabs in your near future!
 
