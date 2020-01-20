@@ -4,7 +4,7 @@
 
 Up until now you've been learning how to break your code into more, smaller pieces based on the role it plays in your application.  Learning to do this is a critical skill but as you've probably noticed, it is difficult to manage projects when your code is in so spread out.
 
-If the last modules were about breaking your projects down, this module is about building them up. Before you were grouping your code by concern (_logic_, _data_, _views_, ...).
+If the last modules were about breaking your projects down, then this module is about building them up.
 
 __Encapsulation__ is the idea of grouping together all of the code related to one functionality (ie. all the data, handlers & logic for logging in). That's it! (for now :)  There are many ways to achieve this, but the end result is code that is easier to understand and nicer work with.
 
