@@ -1,25 +1,33 @@
 # Encapsulation (3 weeks)
 
+> Find the Module repository [right here]() (coming soon!)
 
-> This module is the "second half" of the old JS 2.  In this module the goal is learning how to take projects like the ones from the last module and organizing the code into complete app objects with state, methods that act on state, and render functions.  (but not yet classes & inheritance, just object literals)
+Up until now you've been learning how to break your code into more and more smaller and smaller pieces based on the role it plays in your application.  Learning to do this is a critical skill but as you've probably already noticed, it can be come difficult to manage growing projects when your code is fragmented in so many files.
 
-practical javascript
-weeks 2 & 3 projects from class 6
+If the last modules were about breaking your projects into small pieces, this module is about putting them back together. In the last modules you were grouping your code by concern (_logic_, _data_, _views_, ...).  In this module you will learn to organize your code by _functionality_, grouping all of the code necessary for one functionality together.
 
-__Pains & Gains__
-* _pains you’ll relieve_: Your projects were starting to become quite scattered, and it wasn't easy to keep track of how and where different pieces were interacting.
-* _what you can build_: a fully interactive app object with state, methods, handlers, and render functions
-* _pains you’ll feel_: Apps built around a single object containing only hard-coded and user data are limited
+__Encapsulation__ is the idea of grouping together all code with related functionality (ie. all the data, handlers & logic for handling user login). That's it!  There are many ways to achieve this in JavaScript, but the end result is always code that is nicer reuse and easier to understand.
 
-Learning Objectives
-* simple oop apps with handlers for inputs and renders for output
-* fully-rendered ui's (ie. start with only a root) & DOM components
-* behavioral testing / tdd
-* correctly using 'this' to access values in objects
+Heads up!  In this module you'll be encountering some of the most important, and most challenging, aspects of the JavaScript language: closure, `this` & inheritance.  These are all features of JS that enable different strategies of encapsulation and code re-use.
 
-Tech-Specs:
-* Vanilla JS: DOM components, objects, event listeners
+Along the way you will get your first introduction to the major programming paradigms in JS: _functional_ and _object oriented_.  At their simplest level, programming paradigms are just different answers to the same question "How will I organize my data and my functions?".
 
+### Pains & Gains
+
+* The way you have organized your code so far was helpful for your first small projects.  But as your projects grew, your code became more and more scattered.  To make a change to one functionality (user story) you needed change code in at least 2-3 different files. Learn a more _scalable_ way to organize your code by _encapsulating_ all code related to one functionality into a single object or function.
+* Updating your user interfaces with DOM manipulation can be messy and difficult to debug.  Learn how to build your user interfaces with modular, reusable & testable _DOM components_.
+* So far you have learned about 3 types of variables inside of your functions: _arguments_, _local variables_ and _global variables_.  Using global variables in your handlers to update state, call logic, or modify the DOM is not generally a good practice.  JavaScript has two more ways of accessing values from inside a function call that will allow you to avoid accessing global scope: _closure_ and `this`.
+
+
+### What you can Build
+
+Build more complex web pages that use _closure_ (functions) or `this` (objects) to encapsulate related code into a single "thing".  With this technique you will be able to build bigger apps by making smaller ones and gluing them together!
+
+### New Frontiers
+
+You have mastered the art of application design!  Or at least taken your first steps :hatching_chick:.
+
+Now that you are comfortable planning, debugging and building apps to manage hard-coded or user-provided data, it's time to take the training wheels and start consuming ...
 
 <hr>
 <hr>
