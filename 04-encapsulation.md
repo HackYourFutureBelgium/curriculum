@@ -2,15 +2,15 @@
 
 > Find the Module repository [right here]() (coming soon!)
 
-Up until now you've been learning how to break your code into more and more smaller and smaller pieces based on the role it plays in your application.  Learning to do this is a critical skill but as you've probably already noticed, it can be come difficult to manage growing projects when your code is fragmented in so many files.
+Up until now you've been learning how to break your code into more, smaller pieces based on the role it plays in your application.  Learning to do this is a critical skill but as you've probably noticed, it is difficult to manage projects when your code is in so spread out.
 
-If the last modules were about breaking your projects into small pieces, this module is about putting them back together. In the last modules you were grouping your code by concern (_logic_, _data_, _views_, ...).  In this module you will learn to organize your code by _functionality_, grouping all of the code necessary for one functionality together.
+If the last modules were about breaking your projects down, this module is about building them up. Before you were grouping your code by concern (_logic_, _data_, _views_, ...).
 
-__Encapsulation__ is the idea of grouping together all code with related functionality (ie. all the data, handlers & logic for handling user login). That's it!  There are many ways to achieve this in JavaScript, but the end result is always code that is nicer reuse and easier to understand.
+__Encapsulation__ is the idea of grouping together all of the code related to one functionality (ie. all the data, handlers & logic for logging in). That's it! (for now :)  There are many ways to achieve this, but the end result is code that is easier to understand and nicer work with.
 
-Heads up!  In this module you'll be encountering some of the most important, and most challenging, aspects of the JavaScript language: closure, `this` & inheritance.  These are all features of JS that enable different strategies of encapsulation and code re-use.
+Heads up!  In this module you'll be encountering some of the most important (and most challenging!) aspects of the JavaScript language: closure, `this` & inheritance.  These are all features of JS that allow you to encapsulate and re-use your code.
 
-Along the way you will get your first introduction to the major programming paradigms in JS: _functional_ and _object oriented_.  At their simplest level, programming paradigms are just different answers to the same question "How will I organize my data and my functions?".
+Along the way you will get your first introduction to the main programming paradigms in JS: _functional_ and _object oriented_.  At their simplest level, programming paradigms are just different answers to the same question "How will I group my data and my functions?".
 
 ### Pains & Gains
 
