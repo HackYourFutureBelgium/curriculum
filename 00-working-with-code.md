@@ -8,7 +8,7 @@ It'll take a little while to learn how to keep this all organized in your head a
 
 This module's main objective is to get you comfortable with the workflows of programming, and of Hack Your Future BE.  The finished project won't be complex or impressive to the casual observer, but in order for you to complete it you will need to have a basic overview of the entire development process.  Including: ideation, local development, pushing and pulling to github, and hosting static web pages.
 
-### Pains & Gains
+## Pains & Gains
 
 * Never misplace your work again! Learn to set up an organized folder structure for your HYF assignments and study materials.
 * So you've solved some challenges on Khan Academy, and made a project on Glitch.  But what next?  Learn how to save, edit, and run your code locally on your computer.
@@ -16,11 +16,11 @@ This module's main objective is to get you comfortable with the workflows of pro
 * No one wants to spend all day just looking at your source code, they want to see the live project! Learn to use GitHub Pages static hosting to turn your code into live web pages for anyone to visit.
 * There's a more to learn than you can possibly learn in your 6 months with us!  Get a start learning how to use GitHub boards and repositories as a way to organize your study time to maximize your learning now, and after you graduate.
 
-### What you can build
+## What you can build
 
 After finishing this module you'll be able to develop and manage simple blog-like web sites hosted on GitHub Pages ([something like this](https://hackyourfuture.be/homework-submission)).  These web sites won't thrill and amaze large audiences, but they will equip you with the foundational skills needed to build web pages with HTML & CSS.
 
-### New Frontiers
+## New Frontiers
 
 Once you're comfortable writing, pushing, and deploying markdown you'll be ready for something more.  It won't take long until you feel the limitations of such simple projects!
 

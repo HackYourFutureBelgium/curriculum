@@ -1,0 +1,43 @@
+A few notes about this document as it's still in prototype phase.
+
+* This repo represents a best-effort to take into account all of the feedback and ideas we've gathered from coaches,
+students and alumni over the last year. But it's surely not there yet.
+If we've left out some good ideas, if you think we're taking a step backwards with some of these changes,
+or if you have any ideas to build on what is in this book, please let us know!  Issues, pull requests, slack, it all works.
+
+* Module names have been changed to be technology agnostic, reflecting the skill,
+concept or project type students will encounter rather than highlighting the tools used to execute those skills.
+ This is also nice for future-proofing as technologies & frameworks change (mostly applies to the React module name).
+
+* The three biggest changes from the old curriculum are:
+  - to add one more module using only vanilla JS in the beginning,
+  - to move React before the Node & Data Bases equivalent, and to shorten the React module by 2 weeks.
+  - These changes and more are described with more detail in each module's page
+
+* There are no links to repositories yet because the new repositories don't exist yet.
+After this overview has reached a consensus we can begin preparing the first modules for when class starts in January,
+and can finalize the later modules on a just-in-time basis to incorporate lessons learned along the way.
+
+
+--- on Frontend Frameworks and the old React module ---
+
+This is where the biggest changes from the old curriculum come in.
+The React module is now only 3 weeks and takes place before node/db's, but that  shouldn't be an issue because ...
+
+* With stronger basic coding skills and more preparation on the JS concepts behind React,
+students should be able to learn nearly as much as in the 5 week module in less than 5 weeks.
+
+* By going directly in to React from the browser-based modules:
+the DOM, styling, and browser environment will still be fresh in their minds
+instead of having spent 6 weeks practicing backend before entering React.
+This should also help make the 3 weeks be nearly as effective as the 5 before
+
+* By moving React before Node & Data Bases, those modules can now be turned into light fullstack modules
+with simple React frontends to consume the API's they build.
+This will help to contextualize both their frontend and backend skills as they learn them
+
+* Placing React before Node & Data Bases provides 6 weeks more of practice with React before the final project.
+This extra time should go much further in improving student React comfort than two more weeks of more intensive study.
+This module will not go as deep into React as the old module did,
+preferring to build solid foundations that students can build from over the next 12 weeks (2 modules + final project)
+rather than trying to cover every detail of React just before the final project.

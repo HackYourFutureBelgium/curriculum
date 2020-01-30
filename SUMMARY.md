@@ -3,8 +3,8 @@
 ## Before You Start
 
 * [What is HYF Be?](https://hackyourfuture.be/#about)
-* [GitHub Home Page](https://home.hackyourfuture.be)
-* [Application Process](./application-process.md)
+* [GitHub Table of Contents](https://github.com/hackyourfuturebelgium/home)
+<!-- * [Application Process](./application-process.md) -->
 * [Precourse](https://github.com/HackYourFutureBelgium/precourse)
 
 ## After You Start
@@ -12,9 +12,9 @@
 ### How it Works
 
 * [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
-* [Sunday Classes](./sunday-classes.md)
+<!-- * [Sunday Classes](./sunday-classes.md) -->
 * [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
-* [Evaluation](./evaluation.md)
+<!-- * [Evaluation](./evaluation.md) -->
 
 ### What You will Learn
 
