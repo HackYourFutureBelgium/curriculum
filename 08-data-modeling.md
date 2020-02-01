@@ -13,17 +13,10 @@ __Pains & Gains__
 * _pains you’ll feel_: a real itch for a real project
 
 
-Learning Objectives:
-* A data-first approach to application planning
-* How to identify the data needed for your application
-* How To model & data relationships with SQL and JSON (ie. mongo)
-* The data model and user interactions with that data are the core of your app
 
 
 Tech Specs
 * SQL
-* PosgreSQL, cloud hosted
-* A taste of Mongo/Mongoose
 
 
 

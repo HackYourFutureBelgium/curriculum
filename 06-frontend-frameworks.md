@@ -2,11 +2,13 @@
 
 > Find the Module repository [right here]() (coming soon)
 
-Writing every line of code by hand is tiring, especially as your projects grow larger and more complex.  Now that you've had the time to understand how and why to develop your projects in small steps, learned to effectively write and debug code, taken a hard look inside the JS language, and become comfortable with your developer tools you're finally ready to stand on the shoulders of giants!
+As your projects grow larger and more interesting, they also become more complex. Complexity is THE nemesis of any successful software project.  As the project you're working on becomes more complex, _everyone_ makes more mistakes. Senior developers too! What makes a great developer stand out is not their ability to understand complicated code.  It's their ability to _avoid writing_ it in the first place!
 
-__Frontend Frameworks__ are the wisdom of many experienced developers, automated and made public.  It's helpful to think of them as tested solutions to common problems, not silver bullets.  Other developers have been solving the same problems for decades and have done more than just write books about it. They've built software that helps you apply best practices without losing your mind, letting you can focus on the problems that are unique to your project.
+So far you've learned many programming skills to help you manage the complexity in your projects: testing, separation of concerns, inspecting & debugging, incremental development, encapsulation, reading/writing specs ... to name a few. These skills are essential to becoming a competent developer, but there comes a time when you should stop reinventing the wheel and instead stand on the shoulders of giants.
 
-While frameworks can make your projects much stronger if used right, mis-using frameworks can be harmful to your project. Different frameworks solve the same problem differently - separation of concerns, state management, encapsulation, compatibility, optimization, all of these principles are applied differently by each framework. Choosing a framework also means choosing their way of doing things.  Before committing to a framework for you large projects take some time to understand your project's needs and how different frameworks address them.
+__Frontend Frameworks__ are the wisdom of many experienced developers, automated and made public.  It's helpful to think of them as tested solutions to common problems, not silver bullets.  Other developers have been solving the same problems for decades and have done more than just write books about it. They've built software that takes care of the dirty work for you, letting you focus on the problems that are unique to your project. Studying and learning frameworks is a unique opportunity to learn new and interesting styles of programming from people who have spent decades mastering their craft.
+
+While frameworks will make your projects much stronger if used well, mis-using frameworks wil also be harmful to your project. Different frameworks solve the same problems differently - state management, separation of concerns, encapsulation, cross-device compatibility, optimization, build tooling, developer workflows, ... Choosing a framework means choosing their way of doing things.  Before committing to a framework for your large projects take some time to understand your project's needs and how different frameworks align (or don't!).  Spending a little more time to make the right choice will save _lots_ of time later on.
 
 ## Pains & Gains
 
@@ -25,17 +27,18 @@ __Adding Complexity__:
 * Because your code is passing through extra steps before executed by the JS engine, debugging becomes much more complicated.  It takes take and practice to figure out which bugs happen at the framework level, and which happen at the JS level.  To help with this, all strong frameworks come with their custom debugging tools & libraries which are helpful but also add to the list of things to learn.
 * These extra layers mean you can no longer just open your index.html file in the browser and expect it to work. You will need to learn how to work with NPM/Yarn scripts & dependencies to test, develop and deploy your apps.
 * Projects with frameworks often don't even use plain JavaScript! They'll use TypeScript, JSX, or other custom syntax to boost productivity and catch common errors. These tools can help enormously but do require additional study to use well, and add layers of _transpilers_ and dependencies between you and the final code.
-* Writing code for frameworks means a browser needs the framework code to run your apps.  Sending all of this extra code adds to load time & performance of your apps.  In many simple use cases a framework's optimizations aren't even enough to make up for this extra hit to performance.
+* Writing code for frameworks means a browser needs the framework code as well to run your apps.  Sending all of this extra code adds to load time & performance of your apps.  In many simple use cases a framework's optimizations aren't even enough to make up for this extra hit to performance.
+* Most popular frontend frameworks & supporting libraries/tools are open-source projects that depend on other open source projects.  This means you don't ultimately have control over the code in your apps.  Small changes in any dependency has the potential to introduce bugs, or even crash your apps.  To avoid this you will need to be very careful about managing dependencies & versions.
 
-> In this module you will be using Create React App, a project starter that will take care of most of these complexities so you don't have to worry about them for now.  But they're still there and you will have to deal with them yourself one day very soon.
+> In this module you will be using Create React App, a project starter that will hide most of this complexity so you don't have to worry about it (for now).  But it's all still there, waiting behind the scenes for you to learn about one day very soon :)
 
 ## What you can Build
 
-By the end of this module you will be able to build singe page apps that integrate public API's, just like last module!  But this time around they'll be built using React instead of vanilla JS.
+By the end of this module you will be able to build singe page apps that allow users to interact with public API's, just like last module.  But this time around you will be building them using the React framework and build tooling.  Your final project may not _look_ much different from before, but the journey will be unrecognizable!
 
 ## New Frontiers
 
-Wouldn't it be nice if you could save user data between page loads? Or if you could read and write data directly to your computer? You sure can! But then you're no long building frontend apps, your building ...
+Wouldn't it be nice if you could save user data between page loads? Or if you could read and write data directly to your computer? You sure can! But then you're no long just building frontend apps, you're building ...
 
 <hr>
 <hr>
