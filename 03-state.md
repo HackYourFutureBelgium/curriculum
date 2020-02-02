@@ -1,10 +1,10 @@
 # State (3 weeks)
 
-> Find the Module repository [right here]() (coming soon)
+> Find the Module repository [right here](https://github.com/hackyourfuturebelgium/state)
 
 In the previous module you learned to decompose & plan projects, organize your code, and use HTML/CSS/JS to implement simple websites that process user input.  All well and good but there was something missing.  Your projects never "remembered" anything!
 
-Enter: __State__.  This is a fancy programming term to talk about the _data_ stored by your web pages.  Nearly every app you use has state -> message histories, images, profile details, weather reports, ... you name it!  Data is the core of any application.
+Enter: __State__.  This is a fancy programming term to talk about the _data_ stored by your web pages.  Nearly every app you use has state -> message histories, images, profile details, weather reports, ... you name it!  Data is the core of any application. Just like you learned to write tests to describe your functions and show that they do what they should, you will learn how to use schemas and validation to prove that your program data in fact what you say it is.
 
 Your new projects will be more interesting, but they will also be a lot more complicated.  The logic will be more challenging, and the data saved in your page will change over time leading to bugs you could never have imagined!  To help you deal with the added complexity this module will dive deeply into debugging techniques, problem solving strategies, and your browser's developer tools.
 
