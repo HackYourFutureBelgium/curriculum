@@ -1,4 +1,4 @@
-# Web Apps (4 weeks)
+# Web Apps (3 weeks)
 
 You've made it to fullstack!  __Web Apps__ are applications split up across the internet with different parts running on different machines in different parts of the world.  So far your projects have all run directly in the user's browser.  The code was served from a server (GitHub Pages), and they used data or logic from elsewhere on the web (API's), but all of the code you wrote ran in one place - the client's browser. All of that is about to change.
 
@@ -12,7 +12,7 @@ In this module you will learn how to develop applications that follow the _clien
 
 ## What you can Build
 
-By the end of this module you will be able to build, test and deploy basic fullstack web apps using Node, Express & React.
+By the end of this module you will be able to build, test and deploy basic fullstack web apps using Node & Express.
 Because these apps allow users to interact with data stored on your server's file system instead of just temporary data stored in their browsers, you can now provide a _persistent_ experience.  This means that each time a user closes their browser and opens it again they will be able to pick off right where they left off.
 
 ## New Frontiers

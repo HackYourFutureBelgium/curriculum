@@ -1,4 +1,4 @@
-## Collaborative Development (6 weeks)
+## Collaborative Development (5 weeks)
 
 
 > No big changes here. The goal is still to let students work in teams on cool projects they like, practicing collaboration and project management.

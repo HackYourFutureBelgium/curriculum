@@ -1,4 +1,4 @@
-# Frontend Frameworks (3 weeks)
+# Frontend Frameworks (2 weeks)
 
 > Find the Module repository [right here]() (coming soon)
 
