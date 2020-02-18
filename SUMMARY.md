@@ -9,14 +9,7 @@
 
 ## After You Start
 
-### How it Works
-
-* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
-<!-- * [Sunday Classes](./sunday-classes.md) -->
-* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
-<!-- * [Evaluation](./evaluation.md) -->
-
-### What You will Learn
+### The Modules
 
 * [0. Working With Code](./00-working-with-code.md)
 * [1. Incremental Development](./01-incremental-development.md)
@@ -28,6 +21,19 @@
 * [7. Web Apps](./07-web-apps.md)
 * [8. Data Modeling](./08-data-modeling.md)
 * [9. Collaborative Development](./09-collaborative-development.md)
+
+### Sunday Mornings
+
+* [Git & GitHub](https://github.com/hackyourfuturebelgium/git-github-practice)
+* [Soft Skills]()
+* [Hack the Talks](https://github.com/HackYourFutureBelgium/hack-the-talks)
+
+### Helpful Links
+
+* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
+<!-- * [Sunday Classes](./sunday-classes.md) -->
+* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
+<!-- * [Evaluation](./evaluation.md) -->
 * [Study Links](https://study.hackyourfuture.be)
 
 ## Contributing
