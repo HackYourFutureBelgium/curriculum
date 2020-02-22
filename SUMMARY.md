@@ -9,18 +9,19 @@
 
 ## After You Start
 
-### The Modules
+## The Modules
 
-* [0. Working With Code](./00-working-with-code.md)
-* [1. Incremental Development](./01-incremental-development.md)
-* [2. Separation of Concerns](./02-separation-of-concerns.md)
-* [3. State](./03-state.md)
-* [4. Encapsulation](./04-encapsulation.md)
-* [5. Public APIs](./05-public-apis.md)
-* [6. Frontend Frameworks](./06-frontend-frameworks.md)
-* [7. Web Apps](./07-web-apps.md)
-* [8. Data Modeling](./08-data-modeling.md)
-* [9. Collaborative Development](./09-collaborative-development.md)
+* [0. Working With Code](./modules/working-with-code.md)
+* [1. Incremental Development](./modules/incremental-development.md)
+* [2. Debugging](./modules/debugging.md)
+* [3. Separation of Concerns](./modules/separation-of-concerns.md)
+* [4. State](./modules/state.md)
+* [5. Encapsulation](./modules/encapsulation.md)
+* [6. Public APIs](./modules/public-apis.md)
+* [7. Web Apps](./modules/web-apps.md)
+* [8. Data Modeling](./modules/data-modeling.md)
+* [9. Frontend Frameworks](./modules/frontend-frameworks.md)
+* [10. Collaborative Development](./modules/collaborative-development.md)
 
 ### Sunday Mornings
 

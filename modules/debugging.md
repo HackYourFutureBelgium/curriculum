@@ -6,6 +6,12 @@ Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (exc
 
 something about learning the basics of JS
 
+3 layers of understanding:
+
+* source code: literacy & text, syntax errors, variable misspellings & naming
+* program execution: semantic errors, state over time, stepping through
+* program behavior: failing test cases, intended vs. actual behavior, ...
+
 ## Pains & Gains
 
 * learn basics and syntax of JavaScript

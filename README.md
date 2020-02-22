@@ -10,7 +10,23 @@ As you work your way through Hack Your Future BE, you'll never fully be comforta
 
 What's more important than mastering any particular skill, JS language feature, or development tool is learning to plan and build projects from start to finish.  You can always learn the specific skills & technologies you need when you need them, but if you don't know how to put together a project you can't even make it that far!
 
-In each module description you'll find an overview of what you can expect to learn in that module and a link to that module's repository.  The summaries will cover these points. For more details on what you will learn in each module, follow the link at the top of the page to the module repository:
+---
+
+## The Modules
+
+* [0. Working With Code](./modules/working-with-code.md)
+* [1. Incremental Development](./modules/incremental-development.md)
+* [2. Debugging](./modules/debugging.md)
+* [3. Separation of Concerns](./modules/separation-of-concerns.md)
+* [4. State](./modules/state.md)
+* [5. Encapsulation](./modules/encapsulation.md)
+* [6. Public APIs](./modules/public-apis.md)
+* [7. Web Apps](./modules/web-apps.md)
+* [8. Data Modeling](./modules/data-modeling.md)
+* [9. Frontend Frameworks](./modules/frontend-frameworks.md)
+* [10. Collaborative Development](./modules/collaborative-development.md)
+
+In each module's description you'll find an overview of what you can expect to learn in that module and a link to that module's repository.  The summaries will cover these points. For more details on what you will learn in each module, follow the link at the top of the page to the module repository:
 
 ## Overview
 
