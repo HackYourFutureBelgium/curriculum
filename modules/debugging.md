@@ -1,6 +1,6 @@
-# Testing & Debugging (3 weeks)
+# Debugging (3 weeks)
 
-> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/testing-and-debugging/)
+> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/debugging/)
 
 Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (except be beautiful :).
 

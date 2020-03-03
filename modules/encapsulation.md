@@ -6,7 +6,7 @@ Up until now you've been learning how to break your code into more, smaller piec
 
 If the last modules were about breaking your projects down, then this module is about building them up.
 
-__Encapsulation__ is the idea of grouping together all of the code related to one functionality (ie. all the data, handlers & logic for logging in). That's it! (for now :)  There are many ways to achieve this, but the end result is code that is easier to understand and nicer work with.
+__Encapsulation__ is the idea of grouping together your data with the functions that use it. That's it! (for now :)  There are many ways to achieve this, but the end result is code that is easier to understand and nicer work with.
 
 Heads up!  In this module you'll be encountering some of the most important (and most challenging!) aspects of the JavaScript language: closure, `this` & inheritance.  These are all features of JS that allow you to encapsulate and re-use your code.
 
