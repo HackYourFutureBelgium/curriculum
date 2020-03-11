@@ -1,10 +1,10 @@
-# Public APIs (3 weeks)
+# Asynchronous Programming (3 weeks)
 
 > Find the Module repository [right here]() (coming soon)
 
 "The Internet", "The Web", "Web Apps".  All of these terms describe something that is interconnected.  If you zoom out a bit, the entire internet is basically billions of computers all sharing information and software!  But so far your projects have been all alone on your computer :(
 
-Understand the role of __Public APIs__ in modern computing and application development.  You'll never build a boring app again once the entire internet is at your fingertips :)
+Understand the role of public APIs in modern computing and application development.  You'll never build a boring app again once the entire internet is at your fingertips :)
 
 ## Pains & Gains
 
