@@ -24,6 +24,7 @@ What's new in this module?
   * `import` & `export`
 * In Node.js
   * `require` & `module.exports`
+* NPM
 * Express.js
   * Basic HTTP server
   * Static serving

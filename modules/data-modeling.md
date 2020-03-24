@@ -14,7 +14,7 @@ introduction
 
 ## What you can Build
 
-By the end of this module you will be able to build, test and deploy basic fullstack web apps using Node, Express & SQLite in the backend, and HTML+CSS+JS in the frontend.
+By the end of this module you will be able to use SQLite, Commander.js & NPM to build and publish your own CLI applications.
 
 By using SQL and a database management system (SQLite) to model and access your application's data instead of reading & writing directly to the file system, your applications can provide more interesting user experiences while becoming less likely to crash.
 
@@ -23,6 +23,7 @@ By using SQL and a database management system (SQLite) to model and access your 
 What's new in this module?
 
 * SQLite
+* commander.js
 
 ## New Frontiers
 
