@@ -13,11 +13,25 @@ Understand the role of __Public APIs__ in modern computing and application devel
 
 ## What you can Build
 
-Learn to build web pages that connect users to Public APIs for anything from checking the weather, to catching a train, and even Machine Learning.  To integrate Public APIs into your projects, you will learn how the JS Event Loop handles asynchronous execution.  To manage your growing code-base you will learn how to create modular applications using ES6 `import`/`export` statements.
+Learn to build web pages that connect users to Public APIs for anything from checking the weather, to catching a train, and even Machine Learning.  To integrate Public APIs into your projects, you will learn how the JS Event Loop handles asynchronous execution.
+
+## Tech Stack
+
+What's new in this module?
+
+* JavaScript
+  * closure
+  * The Event Loop: `setTimeout` & `setInterval`
+  * Callbacks, Promises, Async/Await
+* In the Browser
+  * `fetch`
+* In Node.js
+  * `require`
+  * `readFile` vs. `readFileSync`
 
 ## New Frontiers
 
-Your fingers will be getting tired of typing `document.something()` sooo many times!  And you'll find that it takes more and more of your time just to manage all of the boilerplate code for your projects.  Now that you've spent several months learning to design your projects from scratch, you're ready to appreciate the smooth developer experience provided by ...
+Wouldn't it be nice if you could save user data between page loads? Or if you could read and write data directly to your computer? You sure can! But then you're no long just building frontend apps, you're building ...
 
 <hr>
 <hr>

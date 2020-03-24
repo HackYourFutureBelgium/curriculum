@@ -36,9 +36,18 @@ __Adding Complexity__:
 
 By the end of this module you will be able to build singe page apps that allow users to interact with public API's, just like last module.  But this time around you will be building them using the React framework and build tooling.  Your final project may not _look_ much different from before, but the journey will be unrecognizable!
 
+## Tech Stack
+
+What's new in this module?
+
+* React
+* JSX
+* `create-react-app`
+* Jest
+
 ## New Frontiers
 
-Wouldn't it be nice if you could save user data between page loads? Or if you could read and write data directly to your computer? You sure can! But then you're no long just building frontend apps, you're building ...
+Tired of working alone on all of your projects? Ready to build something more substantial than a small project each week?  It's time to experience the entire development process from ideation to delivery using ...
 
 <hr>
 <hr>

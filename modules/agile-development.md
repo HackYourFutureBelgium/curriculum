@@ -1,4 +1,4 @@
-## Collaborative Development
+## Agile Development
 
 
 > No big changes here. The goal is still to let students work in teams on cool projects they like, practicing collaboration and project management.
@@ -18,11 +18,11 @@ Learning Objectives
 * Working with CI/CD
 * Mixing external and internal data
 
-Tech Specs
-* Circle CI
-* Anything and Everything you've learned so far ...
-* ... plus whatever peaks your interest!
+## Tech Stack
 
+What's new in this module?
+
+* Circle Continuous Integration Testing
 
 <hr>
 <hr>

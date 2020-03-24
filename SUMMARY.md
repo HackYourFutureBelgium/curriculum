@@ -2,12 +2,18 @@
 
 ## Before You Start
 
-* [What is HYF Be?](https://hackyourfuture.be/#about)
+* [What is HackYourFuture?](https://hackyourfuture.be/#about)
 * [GitHub Table of Contents](https://github.com/hackyourfuturebelgium/home)
 <!-- * [Application Process](./application-process.md) -->
 * [Precourse](https://github.com/HackYourFutureBelgium/precourse)
 
 ## After You Start
+
+* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
+<!-- * [Sunday Classes](./sunday-classes.md) -->
+* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
+<!-- * [Evaluation](./evaluation.md) -->
+* [Study Links](https://study.hackyourfuture.be)
 
 ## Modules
 
@@ -21,21 +27,13 @@
 * [7. Web Apps](./modules/web-apps.md)
 * [8. Data Modeling](./modules/data-modeling.md)
 * [9. Frontend Frameworks](./modules/frontend-frameworks.md)
-* [10. Collaborative Development](./modules/collaborative-development.md)
+* [10. Agile Development](./modules/agile-development.md)
 
 ### Sunday Mornings
 
 * [Git & GitHub](https://github.com/hackyourfuturebelgium/git-github-practice)
 * [Soft Skills]()
 * [Hack the Talks](https://github.com/HackYourFutureBelgium/hack-the-talks)
-
-### Helpful Links
-
-* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
-<!-- * [Sunday Classes](./sunday-classes.md) -->
-* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
-<!-- * [Evaluation](./evaluation.md) -->
-* [Study Links](https://study.hackyourfuture.be)
 
 ## Contributing
 

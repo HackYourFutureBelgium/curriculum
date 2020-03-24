@@ -24,6 +24,26 @@ something about learning the basics of JS
 
 basic websites that allow users to call your JS functions with the click of a button.
 
+## Tech Stack
+
+What's new in this module?
+
+* JavaScript Basics
+  * Variables
+  * Functions
+  * Primitive Data Types
+  * Control flow: loops & conditionals
+  * Primitive operators
+  * Data Structures: objects & arrays
+  * User interactions with `prompt` and `alert`
+  * Basic testing with `console.assert`
+* Devtools (Browser & VSC)
+  * Pausing execution with `debugger` and break points
+  * Stepping through one line at a time
+* The DOM
+  * Click events & handlers
+
+
 ## New Frontiers
 
 now that you can confidently write basic JS functions, can test and debug them, and can connect them to a button, it's time to start building more substantial and maintainable sites using ...

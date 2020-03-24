@@ -1,7 +1,4 @@
-# to execute this file run this command:
-# bash ./build-push.sh
-# this assumes you are at the top in master
-
+# for testing locally before pushing
 
 rm -rf ./docs
 gitbook build

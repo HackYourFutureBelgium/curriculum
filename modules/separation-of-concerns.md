@@ -15,10 +15,23 @@ Understanding separation of concerns is possibly the most important thing a new 
 * Adding JavaScript into your sites will make them much more complicated.  Complexity is the eternal nemesis of software development!  Mastering _Separation of Concerns_ will earn you your white belt in conquering complexity.
 * HTML & CSS are quite visual technologies, with a little help from the inspector it's possible to have a nearly-complete understanding of what's going on.  JavaScript is quite different!  While HTML & CSS control what you _see_ on the page, JavaScript controls what you can't see -> _data stored in memory_. Learning to visualize program memory and learning a _notional machine_ for how JavaScript steps through your programs are the ground-works for effective programming, problem solving, and debugging.
 * It's nice to build sites that look nice, but at some point you'll want to build projects that _do_ something as well.  Using _DOM input_, _DOM output_, _event listeners_ and _handler functions_ you'll learn how to create user interfaces for your core JS logic functions.
+* Manipulating arrays and objects can get quite complicated using only loops and conditionals.  You're much more likely to make mistakes, and you code will be harder to understand the next time you try to read it.  Learn how to use native JS _Array & Object methods_ for easier coding and debugging.
 
 ## What you can Build
 
 Beautiful, accessible, responsive web pages that accept user input, process it with your JS functions, and display the result for the user.
+
+## Tech Stack
+
+What's new in this module?
+
+* JavaScript
+  * Array methods
+  * Iterating over objects and arrays
+  * Planning and testing solutions to coding challenges
+* The DOM
+  * Event Listeners and Handlers
+  * Reading and Writing from DOM element properties
 
 ## New Frontiers
 

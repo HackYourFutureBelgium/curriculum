@@ -25,6 +25,28 @@ More important than the finished project is the process you go through to create
 
 Along with a live web page you will learn to build a complete GitHub repository to host the source code.  This includes feature branches, a full README, and a link to your project hosted with GH-Pages.
 
+## Tech Stack
+
+What's new in this module?
+
+* Visual Studio Code
+  * LiveServer
+  * ESLint
+  * Prettier
+  * GitLens
+* Git (using GitKraken)
+  * branching & merging
+* HTML5
+  * Semantic Layout
+  * ARIA and Accessibility
+* CSS3
+  * Responsive Design
+  * Flexbox & Grid
+* Browser Devtools
+  * Inspecting elements
+  * Inspecting source
+  * Modifying the DOM
+
 ## New Frontiers
 
 Beautiful web pages can be nice to look at, but after a while you'll want more from your projects than pretty face.

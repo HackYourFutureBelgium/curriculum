@@ -20,6 +20,24 @@ This module's main objective is to get you comfortable with the workflows of pro
 
 After finishing this module you'll be able to develop and manage simple blog-like web sites hosted on GitHub Pages ([something like this](https://hackyourfuture.be/homework-submission)).  These web sites won't thrill and amaze large audiences, but they will equip you with the foundational skills needed to build web pages with HTML & CSS.
 
+## Tech Stack
+
+What's new in this module?
+
+* Visual Studio Code
+  * Markdown Preview
+  * Code Spell Check
+  * Markdown Linter
+* Git (using GitKraken)
+  * add, commit
+  * push, pull
+* GitHub
+  * issues: labels, milestones & assigning
+  * project boards
+  * pull requests
+  * GitHub Pages
+* Markdown
+
 ## New Frontiers
 
 Once you're comfortable writing, pushing, and deploying markdown you'll be ready for something more.  It won't take long until you feel the limitations of such simple projects!

@@ -7,13 +7,31 @@ In this module you will learn how to develop applications that follow the _clien
 ## Pains & Gains
 
 * The "Big Picture" will come together.  After months of focusing in on just one half of web apps (the client) you will finally see everything come together.
-* Persistent user experiences: No more will a user's data be lost each time they refresh the page.  Saving data in your backend's file system will enable users to store data for later and even interact with each other over time!
+* Persistent user experiences: No more will a user's data be lost each time they refresh the page.  Saving data in your back end's file system will enable users to store data for later and even interact with each other over time!
 * Gain confidence with your computer.  Learning to interact directly with your computer's file system from your applications will give you a confidence and comfort that is reassuring.
 
 ## What you can Build
 
-By the end of this module you will be able to build, test and deploy basic fullstack web apps using Node & Express.
+By the end of this module you will be able to build, test and deploy basic fullstack web apps using Node & Express in the backend, and HTML+CSS+JS in the frontend.
+
 Because these apps allow users to interact with data stored on your server's file system instead of just temporary data stored in their browsers, you can now provide a _persistent_ experience.  This means that each time a user closes their browser and opens it again they will be able to pick off right where they left off.
+
+## Tech Stack
+
+What's new in this module?
+
+* In the Browser
+  * `import` & `export`
+* In Node.js
+  * `require` & `module.exports`
+* Express.js
+  * Basic HTTP server
+  * Static serving
+  * Restful Routing
+* Postman
+  * Develop your API's without a frontend
+* Heroku
+  * Continuously deploy your projects from `master`
 
 ## New Frontiers
 
