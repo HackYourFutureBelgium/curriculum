@@ -1,4 +1,4 @@
-# Public APIs (3 weeks)
+# Asynchronous Programming
 
 > Find the Module repository [right here]() (coming soon)
 

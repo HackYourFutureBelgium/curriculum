@@ -1,4 +1,4 @@
-# Encapsulation (3 weeks)
+# Encapsulation
 
 > Find the Module repository [right here]() (coming soon)
 

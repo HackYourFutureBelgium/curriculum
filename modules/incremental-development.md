@@ -1,4 +1,4 @@
-# Incremental Development (3 weeks)
+# Incremental Development
 
 Find the Module repository [right here](https://github.com/HackYourFutureBelgium/incremental-development/)
 

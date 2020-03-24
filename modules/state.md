@@ -1,4 +1,4 @@
-# State (3 weeks)
+# State
 
 > Find the Module repository [right here](https://github.com/hackyourfuturebelgium/state)
 

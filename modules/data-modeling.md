@@ -1,4 +1,4 @@
-## Data Modeling (2 weeks)
+## Data Modeling
 
 
 > This module is one week shorter than the previous databases, and that should not impact students' preparedness for the final project:

@@ -6,7 +6,7 @@
 * [3. Separation of Concerns](./separation-of-concerns.md)
 * [4. State](./state.md)
 * [5. Encapsulation](./encapsulation.md)
-* [6. Public APIs](./public-apis.md)
+* [6. Asynchronous Programming](./asynchronous-programming.md)
 * [7. Web Apps](./web-apps.md)
 * [8. Data Modeling](./data-modeling.md)
 * [9. Frontend Frameworks](./frontend-frameworks.md)

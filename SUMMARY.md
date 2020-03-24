@@ -9,7 +9,7 @@
 
 ## After You Start
 
-## The Modules
+## Modules
 
 * [0. Working With Code](./modules/working-with-code.md)
 * [1. Incremental Development](./modules/incremental-development.md)
@@ -17,7 +17,7 @@
 * [3. Separation of Concerns](./modules/separation-of-concerns.md)
 * [4. State](./modules/state.md)
 * [5. Encapsulation](./modules/encapsulation.md)
-* [6. Public APIs](./modules/public-apis.md)
+* [6. Asynchronous Programming](./modules/asynchronous-programming.md)
 * [7. Web Apps](./modules/web-apps.md)
 * [8. Data Modeling](./modules/data-modeling.md)
 * [9. Frontend Frameworks](./modules/frontend-frameworks.md)

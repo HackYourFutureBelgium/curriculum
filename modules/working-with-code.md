@@ -1,4 +1,4 @@
-# Working With Code (1 week)
+# Working With Code
 
 > Find the Module repository [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
 
