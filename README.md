@@ -20,11 +20,11 @@ What's more important than mastering any particular skill, JS language feature, 
 * [3. Separation of Concerns](./modules/separation-of-concerns.md)
 * [4. State](./modules/state.md)
 * [5. Encapsulation](./modules/encapsulation.md)
-* [6. Public APIs](./modules/public-apis.md)
+* [6. Asynchronous Programming](./modules/asynchronous-programming.md)
 * [7. Web Apps](./modules/web-apps.md)
 * [8. Data Modeling](./modules/data-modeling.md)
 * [9. Frontend Frameworks](./modules/frontend-frameworks.md)
-* [10. Collaborative Development](./modules/collaborative-development.md)
+* [10. Agile Development](./modules/agile-development.md)
 
 In each module's description you'll find an overview of what you can expect to learn in that module and a link to that module's repository.  The summaries will cover these points. For more details on what you will learn in each module, follow the link at the top of the page to the module repository:
 
