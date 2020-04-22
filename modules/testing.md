@@ -12,7 +12,7 @@ Stepping through and understanding your code's execution is interesting, but nea
 
 ## What you can Build
 
-Learn to build simple websites that read and write from the DOM, processing
+Simple websites that showcase your coding challenges: live test reports, live sand-boxes, and documentation.
 
 ## Tech Stack
 
