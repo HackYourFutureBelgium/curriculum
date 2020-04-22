@@ -31,6 +31,7 @@ What's new in this module?
   * Writing to DOM elements
 * Testing Tools
   * Build your own simple testing library!
+  * `itShould` - a beginner-friendly testing function
   * Node.js `assert` module
   * Professional libraries (Mocha & Jasmine)
 
