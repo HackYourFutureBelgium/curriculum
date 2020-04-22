@@ -17,17 +17,18 @@
 
 ## Modules
 
-* [0. Working With Code](./modules/working-with-code.md)
-* [1. Incremental Development](./modules/incremental-development.md)
-* [2. Debugging](./modules/debugging.md)
-* [3. Separation of Concerns](./modules/separation-of-concerns.md)
-* [4. State](./modules/state.md)
-* [5. Encapsulation](./modules/encapsulation.md)
-* [6. Asynchronous Programming](./modules/asynchronous-programming.md)
-* [7. Web Apps](./modules/web-apps.md)
-* [8. Data Modeling](./modules/data-modeling.md)
-* [9. Frontend Frameworks](./modules/frontend-frameworks.md)
-* [10. Agile Development](./modules/agile-development.md)
+1. [Working With Code](./modules/working-with-code.md)
+1. [Incremental Development](./modules/incremental-development.md)
+1. [Debugging](./modules/debugging.md)
+1. [Testing](./modules/testing.md)
+1. [Separation of Concerns](./modules/separation-of-concerns.md)
+1. [State](./modules/state.md)
+1. [Encapsulation](./modules/encapsulation.md)
+1. [Asynchronous Programming](./modules/asynchronous-programming.md)
+1. [Web Apps](./modules/web-apps.md)
+1. [Data Modeling](./modules/data-modeling.md)
+1. [Frontend Frameworks](./modules/frontend-frameworks.md)
+1. [Agile Development](./modules/agile-development.md)
 
 ### Sunday Mornings
 

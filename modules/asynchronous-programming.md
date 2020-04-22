@@ -20,6 +20,7 @@ Learn to build web pages that connect users to Public APIs for anything from che
 What's new in this module?
 
 * JavaScript
+  * arrow functions
   * closure
   * The Event Loop: `setTimeout` & `setInterval`
   * Callbacks, Promises, Async/Await

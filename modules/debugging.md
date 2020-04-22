@@ -22,7 +22,7 @@ something about learning the basics of JS
 
 ## What you can Build
 
-basic websites that allow users to call your JS functions with the click of a button.
+Basic websites that allow users to call your JS functions with the click of a button.
 
 ## Tech Stack
 
@@ -33,20 +33,18 @@ What's new in this module?
   * Functions
   * Primitive Data Types
   * Control flow: loops & conditionals
-  * Primitive operators
-  * Data Structures: objects & arrays
+  * Basic testing with `===` and `console.assert`
   * User interactions with `prompt` and `alert`
-  * Basic testing with `console.assert`
-* Devtools (Browser & VSC)
+* Debugging Tools
+  * Devtools, VSC Debugger, JS Tutor
   * Pausing execution with `debugger` and break points
-  * Stepping through one line at a time
+  * Stepping through execution one line at a time
 * The DOM
   * Click events & handlers
 
-
 ## New Frontiers
 
-now that you can confidently write basic JS functions, can test and debug them, and can connect them to a button, it's time to start building more substantial and maintainable sites using ...
+Now that you can confidently write basic JS functions and can step through your program's execution, it's time to gain confidence in your code with  ...
 
 <hr>
 <hr>

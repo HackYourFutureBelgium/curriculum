@@ -25,13 +25,9 @@ Beautiful, accessible, responsive web pages that accept user input, process it w
 
 What's new in this module?
 
-* JavaScript
-  * Array methods
-  * Iterating over objects and arrays
-  * Planning and testing solutions to coding challenges
 * The DOM
   * Event Listeners and Handlers
-  * Reading and Writing from DOM element properties
+  * Using forms to handle user input
 
 ## New Frontiers
 
