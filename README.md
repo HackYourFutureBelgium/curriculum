@@ -1,3 +1,9 @@
+> ## This repository is depricated, head over to: [home.hackyourfuture.be/curriculum/precourse](https://home.hackyourfuture.be/curriculum/precourse)
+
+---
+---
+---
+
 # HackYourFuture Belgium
 
 > If you aren't already, [read this repo as a GitBook](https://curriculum.hackyourfuture.be). it's much nicer.
