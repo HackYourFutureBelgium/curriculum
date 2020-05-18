@@ -1,4 +1,4 @@
-> ## This repository is depricated, head over to: [home.hackyourfuture.be/curriculum/precourse](https://home.hackyourfuture.be/curriculum/precourse)
+> ## This repository is depricated, head over to: [home.hackyourfuture.be/curriculum](https://home.hackyourfuture.be/curriculum)
 
 ---
 ---
