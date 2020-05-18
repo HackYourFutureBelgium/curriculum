@@ -6,7 +6,7 @@
 
 # HackYourFuture Belgium
 
-> If you aren't already, [read this repo as a GitBook](https://curriculum.hackyourfuture.be). it's much nicer.
+> If you aren't already, [read this repo as a GitBook](https://home.hackyourfuture.be/curriculum). it's much nicer.
 
 Welcome to HYF.
 
